@@ -1,4 +1,4 @@
-# Self Registration Application
+# Node js typescript seed
 
 
 # Pre-reqs
